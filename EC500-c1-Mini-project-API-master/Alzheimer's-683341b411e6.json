@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "alzheimers-188418",
+  "private_key_id": "683341b411e65bb78d817be41b6eda374b087474",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDTZnUmQOho0fbt\n5mR/4i0qO7rWJxwiFS5wAmhFont65RzAMfj5TVO2B0PBQ+p2mDBXQDlw+ngD9eSe\nqH3hVk3+EXTsT7oOt19ghmRVsEKJ92LOhoT4Yd4u05uDtGFRhOsGAgv5cI80Duxx\nS4mFhjuhh0hUFyR2RWkjqMumLQzqyjaF88V5UPEZBOhwnnlqymD4MRIJ8+6/yat+\nKusbUhD3dRTI1BDvrp7UccicSYehC0aCzHpF4Tw3UZ44RXLIdGGZzwxDR+cTkkhC\nggwop9Kbp/ZISGZ7oPDIh9jrYwYofDozLj3KyLss7Qlwo0BDE+0JxwAJd6CDqNjD\n4tyMhBRBAgMBAAECgf9nw1qtNB7flG/HxdZ+jt3sZPUIOJougIcSo5va0i4Z3GuI\nSv8SH0p/hoFTU6q6G2le6j9HnSlbiE53MezXti0CED973oZMwuUl09Fb3fBLGAp/\npLeP0znjcipbMyaxhLR3dnm6Le2cd9bGpXUS/Rg36Ncvr0xOYTOCNVAAeQxmEYbe\n/P9v5kb56NKjn5eSFFWprbR4eN8oZB+aKjNy6R2InWQnvJsYrlYP0UImQ2GHnotd\n/ZldUy93MY/28e4/MzPVRaBMH0gx0SDwwouFcOGldEOwmUQzWlC/eXMax3ILDVNq\nDRuWhD5W8uiurBxWDfUvDi0U+K8D21KKbP196QECgYEA6vbkZa9x94jeRTZt9t6d\nDjaZwTMP3j+UXiZV8no19XfEH5BaVCKzhM/wqtxRjbXjbjWzgL4M9q3f39OYtz1/\n1obGKl9QSPNEfKlLGVahaWVLmtlHnfgqn80gr/jazhNd5e4gpxbgMWI174PTtg70\nXBo/H1uzxw/P7uHiLFb6K4ECgYEA5lOAdQOSAww8sYRHVy2J5TQJCZyoaZ9xJeJK\nY81B69zwNCUtwv901y7pQfrAdhtJTzFU46uCbEpX5vG+MwjPl83BNs6D5xQRzNtV\n629vd3yZyRdLvkpNWLwqVrB9jGt0Skd33Zj6pPOkczxKhKW/mJltjP82GQS7Yqy3\n2vgtSMECgYEAk4VdkwZbXJn/S59H3VaZbwIS+P0ROm3avl39Wlcmp66BYXvlaqu6\n4GkZ5nyba4jGeTyYLf2k7//s7n/Qg0PGjq9hndrn8lViK46zCv6cKyshE+DVmTXl\ntR06J6Hr5rS8II+oyp+PNRI/YNj4xHaRL35/ITYXIqUn3QjPUx1sxoECgYABHhqb\ndr74oNCSk++8ro3ivNPmZgozKQDljCmMPmy5dkL8HcoRDihE+wdKuKrCZ/N9HOIq\nkKR7Xgj7J+UiXkKTm/36BBqDvocvlUjfcZT64XHlleVaMQYbDh6ueQDC86qGyb39\nJ0bgEgaUQJCkACHj3aq4amyaxnkaS3hA6b9egQKBgQDhEh1Rsv4z/tvT6UH/VNRh\nuIGg0btfFN2N9j5if9FMqQ0kaLN5etNqC5qZUDaNlAofbowmfviKCqrTnW63I6vv\nOhWpVd62GRn4I4EeUnlTOx0RZ4HHH5bSELzJfVlQVr98RLuXv8F8wO4MtdoNGTpq\nbeqncs6eFYtlAAn/MD3WXw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "ec500c1-mini@alzheimers-188418.iam.gserviceaccount.com",
+  "client_id": "112434912183051282062",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ec500c1-mini%40alzheimers-188418.iam.gserviceaccount.com"
+}
