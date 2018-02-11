@@ -4,7 +4,7 @@ Author: Runzhou Han
 
 E-mail: rzhan@bu.edu
 
-BU ID; U81215139
+BU ID: U81215139
 
 ## Project discription
 Twitter API to access the twitter content
@@ -15,7 +15,7 @@ Google Vision analysis to describe the content
 
 ## Implementation
 
-1. Preparation
+### Preparation
 
 First, we'll make a workspace:
 
@@ -37,6 +37,6 @@ Next, we need to to setup the API credentials. To do this, open the side bar by 
 
 Now choose to create credentials > choose "service account key" > choose new service account > Make a name > select a role. I personally chose project > owner, so we had full access, but you can make specific keys for specific people if you would like. Now hit create, and this will return to you a json file of your key information. Open up this .json file, and copy the contents. Now head back to the server shell, and do nano apikey.json to open up a new file in the shell, and paste in the json contents. Different shells will act differently, some will support control+c and control+v, others will copy and paste with a right click, others can be right click copied and pasted. To leave nano, control+x to leave, y to save it, and you're all set.
 
-2. Demo
+### Demo
 
 
