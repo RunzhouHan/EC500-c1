@@ -1,0 +1,19 @@
+Cons
+
+-There isnt any error handling
+-there aren't any define functions 
+-There isnt a main function 
+-There is an issue with running it on windows due to a ffmpeg library definition
+-Doesnt let you choose which directory to install which makes it kind of messy.
+-Never prompts the user for input so it's synchronous (reads line by line)
+
+
+
+
+Pros
+
+-Downloads images
+-Gets an extended amount of tweets
+-Uses all the modules asked for
+-Stores labels in a text document with the name of each picture
+-Easy to use
