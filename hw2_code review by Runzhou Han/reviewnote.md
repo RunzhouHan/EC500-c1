@@ -68,3 +68,12 @@ Time of converting images to vedioes is
 
 ![alt text](https://github.com/RunzhouHan/EC500-c1/blob/master/hw2_code%20review%20by%20Runzhou%20Han/Screen%20Shot%202018-02-21%20at%209.36.09%20PM.png)
 
+
+## Local webpage
+
+Github link:
+https://github.com/RunzhouHan/EC500-c1/blob/master/hw2_code%20review%20by%20Runzhou%20Han/EC500/templates/index.html
+
+To run the local website, please make sure that you have download the whole content of folderhttps://github.com/RunzhouHan/EC500-c1/tree/master/hw2_code%20review%20by%20Runzhou%20Han/EC500
+
+After clicking "call API" button, please wait for a few second to have the python backend download images and convert them into a mp4 vedio file. My website doesn't content output of Google Vision because of the code has some problem in getting credential.
