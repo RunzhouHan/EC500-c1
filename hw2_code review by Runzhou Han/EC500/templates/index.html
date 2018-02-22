@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link href = "static/css/index.css" rel = "stylesheet" type = "text/css">
+</head>
+<heander>
+	<div class = "title">
+	<h1>Runzhou Han, Code Review</h1>
+  </div>
+</heander>
+ <body>
+   <div class="parentDiv"> 
+   <video id = "main_video" width="400" controls>
+   </video>
+   </div>
+	<button type = "Submit" onclick="myFunction()">Call API</button>
+</body>
+<script type="text/javascript">
+	function myFunction(){
+		  var xhttp = new XMLHttpRequest();
+          xhttp.onreadystatechange = function() {
+             if (this.readyState == 4 && this.status == 200) {
+             	var v = document.createElement("SOURCE");
+             	v.src = this.responseText;
+             	v.type = "video/mp4";
+                console.log(v.src);
+                document.getElementById("main_video").appendChild(v);
+             }
+          };
+     xhttp.open("GET", "http://127.0.0.1:5000/api", true);
+     xhttp.send();
+	}
+
+</script>
+</html>
