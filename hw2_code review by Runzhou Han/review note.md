@@ -40,19 +40,19 @@ So I just designed test for the first two steps.
 I tried to give a wrong twitter ID in command line, and it returned error message like this
 
 
-![alt text](https://github.com/qinjinjia/ec500c1spring18/blob/master/hw2_code%20review%20by%20Runzhou%20Han/Screen%20Shot%202018-02-21%20at%208.13.11%20PM.png)
+![alt text](https://github.com/RunzhouHan/EC500-c1/blob/master/hw2_code%20review%20by%20Runzhou%20Han/Screen%20Shot%202018-02-21%20at%208.13.11%20PM.png)
 
 
 Then I gave an empty screen page, it showed following result
 
 
-![alt text](https://github.com/qinjinjia/ec500c1spring18/blob/master/hw2_code%20review%20by%20Runzhou%20Han/Screen%20Shot%202018-02-21%20at%208.28.45%20PM.png)
+![alt text](https://github.com/RunzhouHan/EC500-c1/blob/master/hw2_code%20review%20by%20Runzhou%20Han/Screen%20Shot%202018-02-21%20at%208.28.45%20PM.png)
 
 
 As no images are downloaded, FMPEG also raises error
 
 
-![alt text](https://github.com/qinjinjia/ec500c1spring18/blob/master/hw2_code%20review%20by%20Runzhou%20Han/Screen%20Shot%202018-02-21%20at%208.31.48%20PM.png)
+![alt text](https://github.com/RunzhouHan/EC500-c1/blob/master/hw2_code%20review%20by%20Runzhou%20Han/Screen%20Shot%202018-02-21%20at%208.31.48%20PM.png)
 
 Images above shows that the program handles error inputs very well!
 
@@ -62,8 +62,9 @@ Next is time measure.
 
 Time of getting URL and downloading is 
 
-![alt text](https://github.com/qinjinjia/ec500c1spring18/blob/master/hw2_code%20review%20by%20Runzhou%20Han/Screen%20Shot%202018-02-21%20at%209.30.02%20PM.png)
+![alt text](https://github.com/RunzhouHan/EC500-c1/blob/master/hw2_code%20review%20by%20Runzhou%20Han/Screen%20Shot%202018-02-21%20at%209.30.02%20PM.png)
 
 Time of converting images to vedioes is 
 
-![alt text](https://github.com/qinjinjia/ec500c1spring18/blob/master/hw2_code%20review%20by%20Runzhou%20Han/Screen%20Shot%202018-02-21%20at%209.36.09%20PM.png)
+![alt text](https://github.com/RunzhouHan/EC500-c1/blob/master/hw2_code%20review%20by%20Runzhou%20Han/Screen%20Shot%202018-02-21%20at%209.36.09%20PM.png)
+
